@@ -1,0 +1,64 @@
+[
+
+  {
+    "name": "موقعي الرسمي",
+    "desc": "شركة تقدم خدمات برمجية عالية الجودة وبكل إحترافية لعملائها .. لمزيد من المعلومات يرجي زيارة موقعنا او التواصل معنا عبر بيانات التواصل ",
+    "image": "mo",
+    "category": "تصميم مواقع",
+    "links": {
+      "view": "https://mohatim.tech",
+      "code": "https://bloodbank.mohatim.tech"
+    }
+  },
+  {
+    "name": "منصة منتجة",
+    "desc": "منصة منتجة هي حاضنة ومسرعة أعمال رقمية سعودية مقرها بمدينة الرياض",
+    "image": "mun",
+    "category": "تصميم مواقع",
+    "links": {
+      "view": "https://muntiijuh.com",
+      "code": "https://mohatim.tech/ar/order/"
+    }
+  },
+  {
+    "name": "منصة قشرة للتجارة الإلكترونية",
+    "desc": "منصة قشرة هي اول منصة تجارةإلكترونية لإنشاء المتاجر ",
+    "image": "gash",
+    "category": "تصميم متاجر إلكترونية",
+    "links": {
+      "view": "https://gashra.net/",
+      "code": "https://mohatim.tech/ar/order/"
+    }
+  },
+  {
+    "name": "منصة لمتنا (موقع تواصل) ",
+    "desc": "لمتنا هو موقع تواصل سوداني شبيه بالفيس بوك ولكن بمميزات افضل",
+    "image": "lamatna",
+    "category": "تصميم مواقع",
+    "links": {
+      "view": "https://lamatna.mohatim.tech/",
+      "code": "https://mohatim.tech/ar/order/"
+    }
+  },
+  {
+    "name": "منصة بنك الدم السودان",
+    "desc": "بنك الدم السودان هو منصة إلكترونية متكاملة للمتبرعون بالدم",
+    "image": "bloodbank",
+    "category": "تصميم مواقع",
+    "links": {
+      "view": "https://bloodbank.mohatim.tech",
+      "code": "https://bloodbank.mohatim.tech"
+    }
+  },
+  {
+    "name": "شركة البارودي للأنشطة المتعددة",
+    "desc": "شركة البارودي للأنشطة المتعددة المحدودة عام 2020م لتعمل في نشاط الاستيراد والتصدير للمنتجات الاستهلاكية ",
+    "image": "baroud",
+    "category": "تصميم مواقع",
+    "links": {
+      "view": "https://elbaroudi.com/",
+      "code": "https://mohatim.tech/ar/order/"
+    }
+  }
+
+]

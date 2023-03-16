@@ -1,0 +1,147 @@
+[
+    {
+        "name": "React.Js",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "Express.Js",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+    },
+    {
+        "name": "Node.Js",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Redux",
+        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
+    {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "Flutter",
+        "icon": "https://img.icons8.com/color/48/000000/flutter.png"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "Sass",
+        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Kotlin",
+        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/58C2B0/django.png"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
+    },
+    {
+        "name": "Vue.Js",
+        "icon": "https://img.icons8.com/color/48/000000/rY6agKizO9eb/vue-js.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    } ,   
+    {
+        "name": "PhotoShop",
+        "icon": "https://img.icons8.com/color/48/K8Ttz87NEjvn/adobe-photoshop.png"
+    },
+    {
+        "name": "Illustrator",
+        "icon": "https://img.icons8.com/color/48/hksmgkMI669m/adobe-illustrator.png"
+    },
+    {
+        "name": "After Effects",
+        "icon": "https://img.icons8.com/color/48/108781/adobe-after-effects.png"
+    },
+    {
+        "name": "Adobe XD",
+        "icon": "https://img.icons8.com/color/48/qeQp8vgeqeEa/adobe-xd.png"
+    },
+    {
+        "name": "Replit",
+        "icon": "https://img.icons8.com/color/48/LQTr8UsXQ1jm/replit.png"
+    },
+    {
+        "name": "V.S Code",
+        "icon": "https://img.icons8.com/color/48/0OQR1FYCuA9f/visual-studio-code-2019.png"
+    }    
+    
+]
